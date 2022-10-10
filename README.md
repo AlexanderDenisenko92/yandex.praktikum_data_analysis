@@ -2,7 +2,7 @@
 В данном репозитории представлены мои проекты, выполненные в процессе обучения по специальности "Аналитик данных" в Яндекс.Практикуме.
 
 
-## [1. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости.](https://github.com/AlexanderDenisenko92/yandex.praktikum_data_analysis/Project-1/1_project_spb_realty.ipynb)
+## [1. Продажа квартир в Санкт-Петербурге — анализ рынка недвижимости.](https://github.com/AlexanderDenisenko92/yandex.praktikum_data_analysis/Project-1/README-1.md)
 
 Навыки и инструменты: 
 - Python;
@@ -16,7 +16,7 @@
 Проведена предобработка данных. Добавлены новые данные. Выполнены необходимые визуализации.
 
 
-## [2. Изучение закономерностей, определяющих успешность игр.](https://github.com/AlexanderDenisenko92/yandex.praktikum_data_analysis/Project-2/2_project_games_and_platforms.ipynb)
+## [2. Изучение закономерностей, определяющих успешность игр.](https://github.com/AlexanderDenisenko92/yandex.praktikum_data_analysis/Project-2/README-2.md)
 
 Навыки и инструменты:
 - Python;
@@ -34,7 +34,7 @@
 - средние пользовательские рейтинги жанров Action и Sports разные.
 
 
-## [3. Анализ убытков приложения ProcrastinatePRO+.](https://github.com/AlexanderDenisenko92/yandex.praktikum_data_analysis/Project-3/3_project_mobile_application.ipynb)
+## [3. Анализ убытков приложения ProcrastinatePRO+.](https://github.com/AlexanderDenisenko92/yandex.praktikum_data_analysis/Project-3/README-3.md)
 
 Навыки и инструменты:
 - Python;
@@ -48,7 +48,7 @@
 Описание проекта: Проведен анализ данных от ProcrastinatePRO+. Рассчитаны различные метрики, использован когортный анализ. Использованы различные функции расчёта метрик. Сделаны выводы по полученным данным и сформулированы предложения для отдела маркетинга.
 
 
-## [4. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста.](https://github.com/AlexanderDenisenko92/yandex.praktikum_data_analysis/Project-4/4_project_business_analysis.ipynb)
+## [4. Проверка гипотез по увеличению выручки в интернет-магазине — оценить результаты A/B теста.](https://github.com/AlexanderDenisenko92/yandex.praktikum_data_analysis/Project-4/README-4.md)
 
 Навыки и инструменты:
 - Python;
@@ -62,7 +62,7 @@
 После проведенного анализа определено, что A/B-тест можно завершить.
 
 
-## [5. Анализ пользовательского поведения в мобильном приложении.](https://github.com/AlexanderDenisenko92/yandex.praktikum_data_analysis/Project-5/5_project_food_delivery_application.ipynb)
+## [5. Анализ пользовательского поведения в мобильном приложении.](https://github.com/AlexanderDenisenko92/yandex.praktikum_data_analysis/Project-5/README-5.md)
 
 Навыки и инструменты:
 - A/B-тестирование;
